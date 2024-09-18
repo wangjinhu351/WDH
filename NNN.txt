@@ -6,24 +6,24 @@
 {
 "wallpaper":"https://xn--tkh-mf3g9f.v.nxog.top/m/t/",
 "logo":"https://xn--tkh-mf3g9f.v.nxog.top/m//LOGO2.gif",
-"spider":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32","warningText":"🔥公众号光歌软件分享🔥tkh提示:
+"spider":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32","warningText":"🔥软件分享🔥tkh提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
 
 "lives":[
-{"name":"🔥公众号光歌软件分享🔥tkh","type":0,"url":"https://xn--tkh-mf3g9f.v.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"🔥软件分享🔥tkh","type":0,"url":"https://xn--tkh-mf3g9f.v.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"IPV4V6","type":0,"url":"https://xn--tkh-mf3g9f.v.nxog.top/m/tv/1/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
 ],
 "sites": [
-{"key":"豆瓣2","name":"📢🔥公众号光歌软件分享🔥tkh榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢🔥公众号光歌软件分享🔥tkh公告❤更新:9/15❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥公众号光歌软件分享🔥tkh"},
+{"key":"豆瓣2","name":"📢🔥软件分享🔥tkh榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"📢🔥软件分享🔥tkh公告❤更新:9/15❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=app;md5;d2741230d5013288c2e7669c53db7780","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥软件分享🔥tkh"},
 
 
 //jar🎄🛶🎄🎃💘💖💖
-{"key":"csp_woog","name":"🐲欧歌┃4K","type":3,"api":"csp_woog","changeable":0,"filterable":1,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;721e5e4f86009d523f6e1f017c157e19","ext":{"site_urls":["https://woog.nxog.asia","https://woog.nxog.top"]}},
-{"key":"csp_欧歌G","name":"🐲欧歌4K┃配置","type":3,"api":"csp_configog","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;721e5e4f86009d523f6e1f017c157e19"},
-{"key":"配置中心","name":"❤通用┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"},
+{"key":"csp_woog","name":"🐲软件┃4K","type":3,"api":"csp_woog","changeable":0,"filterable":1,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;721e5e4f86009d523f6e1f017c157e19","ext":{"site_urls":["https://woog.nxog.asia","https://woog.nxog.top"]}},
+{"key":"csp_欧歌G","name":"🐲软件4K┃配置","type":3,"api":"csp_configog","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og&ou=软件app;md5;721e5e4f86009d523f6e1f017c157e19"},
+{"key":"配置中心","name":"❤通用┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=软件app;md5;d2741230d5013288c2e7669c53db7780"},
 {"key":"荐片","name":"💡荐片┃影视","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 
 {"key":"农民影视","name":"💡农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},

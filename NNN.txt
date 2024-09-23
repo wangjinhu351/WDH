@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,每天一部电影
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,每天更新一部电影
+https://m3u.nikanba.live/share/018ea65fb5bb0f0ff16dbea907710fff.m3u8
 #EXTINF:-1 ,河南都市频道
 http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=8cb49343e23380ed8ad109be0a389ae4&wsTime=1727064267
 #EXTINF:-1 ,河南电视台民生频道
@@ -20,9 +20,9 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 ,湖南卫视
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,CCTV13
-https://ldncctvwbcdbd.a.bdydns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-2100
+http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/1/v1M/index.m3u8
 #EXTINF:-1 ,CCTV6
-https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv6_1/index.m3u8?b=200-1200
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 #EXTINF:-1 ,幸福的国家
 https://svipsvip.ffzy-online5.com/20240920/32642_3f8ee098/index.m3u8
 #EXTINF:-1 ,叛军岭

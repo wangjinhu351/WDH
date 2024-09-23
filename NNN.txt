@@ -2,7 +2,7 @@
 请关注,https://tv.youdu.fan:666/mtv/一路生花.MP4
 公众号,https://tv.youdu.fan:666/mtv/一条路.MP4
 毒盒迷,https://tv.youdu.fan:666/mtv/一剪梅.MP4
-📡央视频道,#genre#
+
 #EXTINF:-1 ,CCTV1
 http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
 #EXTINF:-1 ,CCTV2

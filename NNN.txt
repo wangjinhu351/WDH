@@ -30,9 +30,9 @@ https://openhls-tct.douyucdn2.cn/dyliveflv1/36337rrvzb1lQbzV_900.m3u8?txSecret=0
 #EXTINF:-1 tvg-name=",轮播电影 2" tvg-logo="https://live.fanmingming.com/tv/轮播电影 2.png" group-title="电影频道",轮播电影 2
 https://openhls-tct.douyucdn2.cn/dyliveflv1/252802run2al9fVQ_2000.m3u8?txSecret=d11c8c0993604a534aed13ac00034cc6&txTime=66f302bc&token=h5-douyu-0-252802-105b81434366bd8e2040dcb472523bed&did=a2621ba1c9be0544f60842ff000117p1&origin=tct&vhost=play1&sid=400069745
 #EXTINF:-1 tvg-name=",偶滴神啊2" tvg-logo="https://live.fanmingming.com/tv/偶滴神啊2.png" group-title="电影频道",偶滴神啊2
-https://hcts-m3u8.hmrvideovip.com/play/4f5c85b13648425ab02ce8d910aa53e2.m3u8
+https://v.cdnlz11.com/20231009/17717_67af2fdd/index.m3u8
 #EXTINF:-1 tvg-name=",速度与激情10" tvg-logo="https://live.fanmingming.com/tv/速度与激情10.png" group-title="电影频道",速度与激情10
-https://wangchuanxin.top/m3/jjDoMuFMtafK8Yn887cQ4Nx-bWa_Yef8BEn2FjJixVf_4ebXAOeSh6vHIuo5xVR0xmNpD5cTc2Y2BBRk8IWHL0gA4ARi3ZWxuasbtypo-Ds.m3u8
+tvbox-xg:ftp://a.gbl.114s.com:20320/2959/速度与激情10-2023_BD中英双字精校版.mp4
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2

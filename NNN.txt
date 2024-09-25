@@ -25,14 +25,8 @@ http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=c96352f7163d4788fb5c2f17bc8d7387&wsTime=1727063554
 #EXTINF:-1 tvg-name=",河南新农村频道" tvg-logo="https://live.fanmingming.com/tv/河南新农村频道.png" group-title="河南频道",河南新农村频道
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=64c8e7fa29a9438c131aedc157afaa10&wsTime=1727058745
-#EXTINF:-1 tvg-name=",轮播电影 1" tvg-logo="https://live.fanmingming.com/tv/轮播电影 1.png" group-title="电影频道",轮播电影 1
-https://openhls-tct.douyucdn2.cn/dyliveflv1/36337rrvzb1lQbzV_900.m3u8?txSecret=095cedc1ef123f5636993234cd18d06e&txTime=66f3036a&token=h5-douyu-0-36337-507175557244bf73b5612f18a1291a57&did=a2621ba1c9be0544f60842ff000117p1&origin=tct&vhost=play1&sid=392624442
-#EXTINF:-1 tvg-name=",轮播电影 2" tvg-logo="https://live.fanmingming.com/tv/轮播电影 2.png" group-title="电影频道",轮播电影 2
-https://openhls-tct.douyucdn2.cn/dyliveflv1/252802run2al9fVQ_2000.m3u8?txSecret=d11c8c0993604a534aed13ac00034cc6&txTime=66f302bc&token=h5-douyu-0-252802-105b81434366bd8e2040dcb472523bed&did=a2621ba1c9be0544f60842ff000117p1&origin=tct&vhost=play1&sid=400069745
 #EXTINF:-1 tvg-name=",偶滴神啊2" tvg-logo="https://live.fanmingming.com/tv/偶滴神啊2.png" group-title="电影频道",偶滴神啊2
 https://hcts-m3u8.hmrvideovip.com/play/4f5c85b13648425ab02ce8d910aa53e2.m3u8
-#EXTINF:-1 tvg-name=",速度与激情10" tvg-logo="https://live.fanmingming.com/tv/速度与激情10.png" group-title="电影频道",速度与激情10
-https://wangchuanxin.top/m3/jjDoMuFMtafK8Yn887cQ4Nx-bWa_Yef8BEn2FjJixVf_4ebXAOeSh6vHIuo5xVR0xmNpD5cTc2Y2BBRk8IWHL0gA4ARi3ZWxuasbtypo-Ds.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2

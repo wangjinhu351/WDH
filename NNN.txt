@@ -112,15 +112,6 @@ CCTV17,hhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-📛 王錿 电影频道,#genre#
-赶尽杀绝2,https://svip.high21-playback.com/20240925/38997_b233ac00/index.m3u8
-赶尽杀绝2,https://svip.high21-playback.com/20240925/38997_b233ac00/2000k/hls/mixed.m3u8
-印度英雄2,https://v.cdnlz12.com/20240812/16343_b4ea6225/index.m3u8
-印度英雄2,https://v.cdnlz12.com/20240812/16343_b4ea6225/2000k/hls/mixed.m3u8
-亡命赌注,https://v.cdnlz12.com/20240712/15651_74ffad51/index.m3u8
-亡命赌注,https://v.cdnlz12.com/20240712/15651_74ffad51/2000k/hls/mixed.m3u8
-拉 扬,https://v.cdnlz12.com/20240829/16677_7f4438c0/index.m3u8
-拉 扬,https://v.cdnlz12.com/20240829/16677_7f4438c0/2000k/hls/mixed.m3u8
 🌍王錿 电影轮播,#genre#
 CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000$1920x1080
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8

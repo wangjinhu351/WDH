@@ -16,7 +16,7 @@
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 錿言暉語,https://vd4.bdstatic.com/mda-nbpdnsq8rmabxasy/sc/cae_h264_delogo/1645705535550224627/mda-nbpdnsq8rmabxasy.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565188-0-0-e74ddac03679c2d3f0d8b83257ccfbe0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2188346086&vid=10288256394144981158&abtest=103742_2-103890_2-103579_2&klogid=2188346086
 
-📛 中国央视频道,#genre#
+📺 中国央视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -35,7 +35,7 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,hhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-📛中国卫视频道,#genre#
+📡中国卫视频道,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
@@ -112,7 +112,8 @@ CCTV17,hhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-🌍王錿 电影轮播,#genre#
+
+🌍王錿 电影频道,#genre#
 CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000$1920x1080
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC家庭影院,http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%2BpZL3Wo1xiFxAw%3D%3D&u=HNTV01YU00021202&p=8&cid=100000190&pid=&l=1&d=48555E45F7FC&ip=192.168.197.125&n=CHCJTYY_8000&errorcode=0&sid=dc0dvd1mPBtLnOcG8ia8jA%3D%3D&r=20231212111401&e=20231212151401&nc=XOLY5A6gm03W&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422697120&srchost=172.16.22.158:8060&gid=DHldhfgdMMpjpVp6NSOZqw%3D%3D
@@ -211,7 +212,7 @@ NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-🌍王錿 经典明星,#genre#
+🎬王錿 经典明星,#genre#
 许氏三杰,http://www.52sw.top:678/play/huya.php?id=11602033
 许冠英,http://www.52sw.top:678/play/huya.php?id=11601972
 五福星,http://www.52sw.top:678/play/huya.php?id=11282233
@@ -551,7 +552,7 @@ NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/
 96笑傲江湖版,https://sxtv.cloudns.org/yy/1354930909
 新白娘子轮播,https://sxtv.cloudns.org/yy/1354930969
 仙剑奇侠传剧,https://sxtv.cloudns.org/yy/1382749903
-📛相声小品,#genre#
+🌍相声小品,#genre#
 赵本山小品,http://maomao.kandiantv.cn/douyu1.php?id=9817716
 开心麻花小品,http://maomao.kandiantv.cn/douyu1.php?id=10153463
 宋小宝小品,http://maomao.kandiantv.cn/douyu1.php?id=9817729
@@ -917,10 +918,33 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 后台回复,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnqyM5gUo2Oe2wgU.mp4
 获取密码,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
 無止境的風🔞电影_55123,#genre#
-韩国02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
-韩国03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
-韩国04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
-韩国05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
-韩国06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
-韩国07,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
-韩国08,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+灰影人,https://m3u8.hmrvideo.com/play/23d0424a04e948a2a311b26f571cd968.m3u8
+地獄犬,https://m3u8.hmrvideo.com/play/9beee9f953cf44f19668852361d621ac.m3u8
+8号警报1,https://vip.lz-cdn3.com/20220806/10820_a60a79da/index.m3u8
+8号警报1,https://vip.lz-cdn3.com/20220806/10820_a60a79da/1000k/hls/mixed.m3u8
+8号警报2,https://v.cdnlz12.com/20240229/12106_61587ad0/index.m3u8
+8号警报2,https://v.cdnlz12.com/20240229/12106_61587ad0/2000k/hls/mixed.m3u8
+碟中谍7：致命清算（上）,https://v.cdnlz17.com/20231108/31551_4ce3c396/index.m3u8
+碟中谍7：致命清算（上）,https://v.cdnlz17.com/20231108/31551_4ce3c396/2000k/hls/mixed.m3u8
+敢死队,https://vip.lzcdn2.com/20220330/1397_d8baea1c/index.m3u8
+敢死队,https://vip.lzcdn2.com/20220330/1397_d8baea1c/1800k/hls/mixed.m3u8
+敢死队2,https://vip.lz-cdn1.com/20220524/6591_aef292b0/index.m3u8
+敢死队2,https://vip.lz-cdn1.com/20220524/6591_aef292b0/1200k/hls/mixed.m3u8
+敢死队3,https://vip.lz-cdn.com/20220810/27936_678848b1/index.m3u8
+敢死队3,https://vip.lz-cdn.com/20220810/27936_678848b1/1000k/hls/mixed.m3u8
+敢死队4：最终章,https://v.cdnlz12.com/20231014/10553_2ce187a0/index.m3u8
+敢死队4：最终章,https://v.cdnlz12.com/20231014/10553_2ce187a0/2000k/hls/mixed.m3u8
+1《大陆酒店》,https://v.cdnlz9.com/20230922/18964_e2f02a05/index.m3u8
+1《大陆酒店》,https://v.cdnlz9.com/20230922/18964_e2f02a05/2000k/hls/mixed.m3u8
+2《大陆酒店》,https://v.cdnlz9.com/20230929/19069_20acd0c6/index.m3u8
+2《大陆酒店》,https://v.cdnlz9.com/20230929/19069_20acd0c6/2000k/hls/mixed.m3u8
+3《大陆酒店》,https://v.cdnlz9.com/20231006/19191_3dce0996/index.m3u8
+3《大陆酒店》,https://v.cdnlz9.com/20231006/19191_3dce0996/2000k/hls/mixed.m3u8
+《疾速追杀》,https://vip.lzcdn2.com/20220525/7612_c3d73801/index.m3u8
+《疾速追杀》,https://vip.lzcdn2.com/20220525/7612_c3d73801/1200k/hls/mixed.m3u8
+《疾速特攻》,https://vip.lz-cdn3.com/20220819/11753_01d46141/index.m3u8
+《疾速特攻》,https://vip.lz-cdn3.com/20220819/11753_01d46141/1000k/hls/mixed.m3u8
+《疾速备战》,https://vip.lz-cdn3.com/20220828/12168_e1108a27/index.m3u8
+《疾速备战》,https://vip.lz-cdn3.com/20220828/12168_e1108a27/1000k/hls/mixed.m3u8
+《疾速追杀4》,https://vip.lz-cdn1.com/20230523/21033_d0505ab2/index.m3u8
+《疾速追杀4》,https://vip.lz-cdn1.com/20230523/21033_d0505ab2/2000k/hls/mixed.m3u8

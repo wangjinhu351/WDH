@@ -16,7 +16,7 @@
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 錿言暉語,https://vd4.bdstatic.com/mda-nbpdnsq8rmabxasy/sc/cae_h264_delogo/1645705535550224627/mda-nbpdnsq8rmabxasy.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565188-0-0-e74ddac03679c2d3f0d8b83257ccfbe0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2188346086&vid=10288256394144981158&abtest=103742_2-103890_2-103579_2&klogid=2188346086
 
-📺 中国央视频道,#genre#
+📺 中国电视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -112,7 +112,7 @@ CCTV17,hhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-🍃港·澳·台,#genre#
+🍃香港澳门台湾,#genre#
 
 纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -134,7 +134,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-🌍王錿 电影频道,#genre#
+🌍电影频道,#genre#
 CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000$1920x1080
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC家庭影院,http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%2BpZL3Wo1xiFxAw%3D%3D&u=HNTV01YU00021202&p=8&cid=100000190&pid=&l=1&d=48555E45F7FC&ip=192.168.197.125&n=CHCJTYY_8000&errorcode=0&sid=dc0dvd1mPBtLnOcG8ia8jA%3D%3D&r=20231212111401&e=20231212151401&nc=XOLY5A6gm03W&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422697120&srchost=172.16.22.158:8060&gid=DHldhfgdMMpjpVp6NSOZqw%3D%3D
@@ -233,7 +233,7 @@ NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-🎬王錿 经典明星,#genre#
+🎬经典明星,#genre#
 许氏三杰,http://www.52sw.top:678/play/huya.php?id=11602033
 许冠英,http://www.52sw.top:678/play/huya.php?id=11601972
 五福星,http://www.52sw.top:678/play/huya.php?id=11282233
@@ -549,7 +549,7 @@ NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/
 剧集_地下交通站,https://www.goodiptv.club/huya/11342433
 剧集_邻里一家亲,https://www.goodiptv.club/huya/11342426
 搞笑_陈翔六点半,https://www.goodiptv.club/huya/11274154
-🍃王錿 轮播频道,#genre#
+🍃轮播频道,#genre#
 第一滴血全集,https://sxtv.cloudns.org/yy/1354932355
 敢死队全轮播,https://sxtv.cloudns.org/yy/1382735573
 速度与激情集,https://sxtv.cloudns.org/yy/1382736911
